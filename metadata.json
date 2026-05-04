@@ -1,0 +1,9 @@
+{
+  "name": "Project Process Master Plan (PPMP)",
+  "description": "An advanced process intelligence platform for designing, visualizing, and analyzing process models using data-driven insights and AI recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
